@@ -1,0 +1,1 @@
+{"scripts":{"dev":"vinext dev --host 0.0.0.0","build":"vinext build && node scripts/copy-hosting.mjs","preview":"vinext start"},"dependencies":{"vinext":"latest","vite":"latest","react":"latest","react-dom":"latest","lucide-react":"latest"},"devDependencies":{"@vitejs/plugin-rsc":"latest","@cloudflare/vite-plugin":"latest"}}
